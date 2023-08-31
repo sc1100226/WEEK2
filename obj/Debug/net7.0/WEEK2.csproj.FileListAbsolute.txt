@@ -1,0 +1,15 @@
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.csproj.AssemblyReference.cache
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.AssemblyInfoInputs.cache
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.AssemblyInfo.cs
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.csproj.CoreCompileInputs.cache
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\bin\Debug\net7.0\WEEK2.exe
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\bin\Debug\net7.0\WEEK2.deps.json
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\bin\Debug\net7.0\WEEK2.runtimeconfig.json
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\bin\Debug\net7.0\WEEK2.dll
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\bin\Debug\net7.0\WEEK2.pdb
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.dll
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\refint\WEEK2.dll
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.pdb
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\WEEK2.genruntimeconfig.cache
+C:\Users\skari\OneDrive\Documents\WT-CIDM 3312 Advance Business Programming\WEEK2\obj\Debug\net7.0\ref\WEEK2.dll
